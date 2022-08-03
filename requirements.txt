@@ -1,0 +1,4 @@
+bank-card~=1.0.5
+card-identifier~=1.0
+ccard~=0.1.9
+payment-card-identifier~=0.1.2
